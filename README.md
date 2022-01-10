@@ -1,5 +1,6 @@
 # Air-Quality-Analysis
 In This project we have to analyse data on air quality in one of the cities in Italy. We need to determine whether the concentration of air pollutants increase or decrease over time.
+# Data Description
 The dataset contains 9358 instances of hourly averaged responses from an array of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device.
 
 The device was located on the field in a significantly polluted area, at road level, within an Italian city. Data were recorded from March 2004 to April 2005 (one year) representing the longest freely available recordings of on field-deployed air quality chemical sensor devices responses. A co-located reference certified analyzer provided **Ground Truth (GT)** hourly averaged concentrations for Carbon Monoxide ($\text{CO}$), Non-Methane Hydrocarbons ($\text{NMHC}$), Benzene ($\text{C}_6\text{H}_6$), total Nitrogen Oxides ($\text{NO}_x$) & Nitrogen Dioxide ($\text{NO}_2$), and Ozone ($\text{O}_3$). These chemical compounds are commonly occurring air pollutants.
